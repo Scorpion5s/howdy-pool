@@ -1,1 +1,8 @@
-
+{
+  "name": "Howdy",
+  "ticker": "howdy",
+  "description": "Howdy!  Welcome to our pool.  Professionally managed, secure and profitable.  Ready to serve the Cardano community.",
+  "homepage": "https://howdy.hank.one",
+  "nonce": "1597492093",
+  "extended": "https://tinyurl.com/yxntwcnp"
+}
